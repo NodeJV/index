@@ -1,0 +1,43 @@
+/* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
+/* DO NOT EDIT! */
+
+#include <windows.h> // include for version info constants
+
+
+A ICON "NodeJv.ico"
+
+//
+// SUPPORT FOR WINDOWS XP THEMES:
+// THIS WILL MAKE THE PROGRAM USE THE COMMON CONTROLS
+// LIBRARY VERSION 6.0 (IF IT IS AVAILABLE)
+//
+1 24 "NodeJv.exe.Manifest"
+
+//
+// TO CHANGE VERSION INFORMATION, EDIT PROJECT OPTIONS...
+//
+1 VERSIONINFO
+FILEVERSION 2,4,385,453730
+PRODUCTVERSION 2,4,385,453730
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+  {
+    BLOCK "040904E4"
+    {
+      VALUE "CompanyName", "2020 (c) Jvav Studios"
+      VALUE "FileVersion", "2.4.385.453730"
+      VALUE "FileDescription", "NodeJv"
+      VALUE "InternalName", "NodeJv.exe"
+      VALUE "LegalCopyright", "Jvav Studios"
+      VALUE "LegalTrademarks", "Jvsv Studios"
+      VALUE "OriginalFilename", "NodeJv.exe"
+      VALUE "ProductName", "NodeJv.exe"
+      VALUE "ProductVersion", "2.4.385.453730"
+    }
+  }
+  BLOCK "VarFileInfo"
+  {
+    VALUE "Translation", 0x0409, 1252
+  }
+}
